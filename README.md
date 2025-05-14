@@ -1,4 +1,4 @@
-## Efficient Industrial Point Cloud Anomaly Detection 1 via Spatial Context Aggregation
+## Efficient Industrial Point Cloud Anomaly Detection via Spatial Context Aggregation
 
 <img src="./doc/overview.png" width=900 alt="Real3D Dataset" align=center>
 
