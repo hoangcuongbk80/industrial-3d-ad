@@ -6,7 +6,7 @@
 
 + To download the Real3D-AD dataset, click [real3d-ad-pcd.zip(google drive)](https://drive.google.com/file/d/1oM4qjhlIMsQc_wiFIFIVBvuuR8nyk2k0/view?usp=sharing) or [real3d-ad-pcd.zip(baidu disk: vrmi)](https://pan.baidu.com/s/1orQY3DjR6Z0wazMNPysShQ)
 
-+ For Industrial3D-AD dataset: click [here](https://drive.google.com/file/d/1ceazjhGExMzI48fJOv4gV-bPESyvOokf/view?usp=drive_link).
++ For the newly collected Industrial3D-AD dataset: click [here](https://drive.google.com/file/d/1ceazjhGExMzI48fJOv4gV-bPESyvOokf/view?usp=drive_link).
 
 ### Data preparation
 - Download real3d-ad-pcd.zip and extract into `./data/`
